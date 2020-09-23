@@ -1,4 +1,4 @@
-[Projects] (https://shrutibathia.github.io/projects)
+[Projects](https://shrutibathia.github.io/projects)
 
 
 I am a fifth-year PhD student in Social Research Methodology at the Graduate School of Education, University of California Berkeley. My research focusses on exploring inequalities in education especially pertaining to the Latino children in United States. I believe that the undeniable relationship between racial inequalities and educational inequalities represents a societal failure that betrays the spirit of humanity.  Some of the macro issues that I am looking at are – the changing patterns of racial and economic segregation over the past decade. Some of the micro issues that I am looking at are the effect of stereotype threat on educational outcomes. 
