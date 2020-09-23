@@ -1,2 +1,2 @@
-# shrutibathia.github.io-
+# shrutibathia.github.io
 Website
